@@ -4,6 +4,7 @@ feel free to use the contract on your own network.
 
 ## Contract Addresses (Sepolia)
 BasicNFT Address: 0x0899bBfA6E009915556017D0283c9fbD45D010fE
+
 NFTMarketplace Address: 0xae6edbf73c1e8Ab81093BfEAF70A3309461f654f
 
 ## Features
